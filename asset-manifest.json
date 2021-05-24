@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.202f36f8.chunk.css",
+    "main.js": "/static/js/main.c8da1df0.chunk.js",
+    "main.js.map": "/static/js/main.c8da1df0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.46e1affa.js",
+    "runtime-main.js.map": "/static/js/runtime-main.46e1affa.js.map",
+    "static/js/2.e5c1cbef.chunk.js": "/static/js/2.e5c1cbef.chunk.js",
+    "static/js/2.e5c1cbef.chunk.js.map": "/static/js/2.e5c1cbef.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.202f36f8.chunk.css.map": "/static/css/main.202f36f8.chunk.css.map",
+    "static/js/2.e5c1cbef.chunk.js.LICENSE.txt": "/static/js/2.e5c1cbef.chunk.js.LICENSE.txt",
+    "static/media/chocapic_cereal.0e73474c.jpg": "/static/media/chocapic_cereal.0e73474c.jpg",
+    "static/media/coca-cola-zero.66e3b485.jpg": "/static/media/coca-cola-zero.66e3b485.jpg",
+    "static/media/coca-cola.7a885a8b.jpg": "/static/media/coca-cola.7a885a8b.jpg",
+    "static/media/kellogs_cornflakes.19b69115.jpg": "/static/media/kellogs_cornflakes.19b69115.jpg",
+    "static/media/nesquik.635452d1.jpg": "/static/media/nesquik.635452d1.jpg",
+    "static/media/nestle2_cornflakes.16a8528d.jpg": "/static/media/nestle2_cornflakes.16a8528d.jpg",
+    "static/media/nestle_cornflakes.8d23114d.png": "/static/media/nestle_cornflakes.8d23114d.png",
+    "static/media/philips.ab301ca2.jpeg": "/static/media/philips.ab301ca2.jpeg",
+    "static/media/sprite.99188cbc.jpg": "/static/media/sprite.99188cbc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46e1affa.js",
+    "static/js/2.e5c1cbef.chunk.js",
+    "static/css/main.202f36f8.chunk.css",
+    "static/js/main.c8da1df0.chunk.js"
+  ]
+}
