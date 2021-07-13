@@ -1,33 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2b404cc.chunk.css",
-    "main.js": "/static/js/main.ea8fc23e.chunk.js",
-    "main.js.map": "/static/js/main.ea8fc23e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3894e4c3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3894e4c3.js.map",
-    "static/css/2.97503911.chunk.css": "/static/css/2.97503911.chunk.css",
-    "static/js/2.5c5151fc.chunk.js": "/static/js/2.5c5151fc.chunk.js",
-    "static/js/2.5c5151fc.chunk.js.map": "/static/js/2.5c5151fc.chunk.js.map",
+    "main.css": "/static/css/main.6d6ab001.chunk.css",
+    "main.js": "/static/js/main.fd69650e.chunk.js",
+    "main.js.map": "/static/js/main.fd69650e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1410eae0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1410eae0.js.map",
+    "static/js/2.22505541.chunk.js": "/static/js/2.22505541.chunk.js",
+    "static/js/2.22505541.chunk.js.map": "/static/js/2.22505541.chunk.js.map",
+    "static/js/3.11365a8a.chunk.js": "/static/js/3.11365a8a.chunk.js",
+    "static/js/3.11365a8a.chunk.js.map": "/static/js/3.11365a8a.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.97503911.chunk.css.map": "/static/css/2.97503911.chunk.css.map",
-    "static/css/main.c2b404cc.chunk.css.map": "/static/css/main.c2b404cc.chunk.css.map",
-    "static/js/2.5c5151fc.chunk.js.LICENSE.txt": "/static/js/2.5c5151fc.chunk.js.LICENSE.txt",
-    "static/media/chocapic_cereal.0e73474c.jpg": "/static/media/chocapic_cereal.0e73474c.jpg",
-    "static/media/coca-cola-zero.66e3b485.jpg": "/static/media/coca-cola-zero.66e3b485.jpg",
-    "static/media/coca-cola.7a885a8b.jpg": "/static/media/coca-cola.7a885a8b.jpg",
-    "static/media/kelloggs_cornflakes.484c03a7.jpg": "/static/media/kelloggs_cornflakes.484c03a7.jpg",
-    "static/media/nesquik.635452d1.jpg": "/static/media/nesquik.635452d1.jpg",
-    "static/media/nestle2_cornflakes.16a8528d.jpg": "/static/media/nestle2_cornflakes.16a8528d.jpg",
-    "static/media/nestle_cornflakes.8d23114d.png": "/static/media/nestle_cornflakes.8d23114d.png",
-    "static/media/philips.ab301ca2.jpeg": "/static/media/philips.ab301ca2.jpeg",
-    "static/media/scan_icon.b759e03e.svg": "/static/media/scan_icon.b759e03e.svg",
-    "static/media/sprite.99188cbc.jpg": "/static/media/sprite.99188cbc.jpg"
+    "static/css/main.6d6ab001.chunk.css.map": "/static/css/main.6d6ab001.chunk.css.map",
+    "static/js/2.22505541.chunk.js.LICENSE.txt": "/static/js/2.22505541.chunk.js.LICENSE.txt",
+    "static/media/Reward.css": "/static/media/coin-3.7a4e1f5f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3894e4c3.js",
-    "static/css/2.97503911.chunk.css",
-    "static/js/2.5c5151fc.chunk.js",
-    "static/css/main.c2b404cc.chunk.css",
-    "static/js/main.ea8fc23e.chunk.js"
+    "static/js/runtime-main.1410eae0.js",
+    "static/js/2.22505541.chunk.js",
+    "static/css/main.6d6ab001.chunk.css",
+    "static/js/main.fd69650e.chunk.js"
   ]
 }
